@@ -1,9 +1,11 @@
 ---
 author: "xxxxxx"
-title: "2018在多伦多的流水账"
+title: "2018"
 date: "2018-12-30"
 tags: 
 - Toronto
+- Books
+- Movies
 ---
 
 2018年有记录的“流水账”。
