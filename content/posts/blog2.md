@@ -2,6 +2,8 @@
 author: "xxxxxx"
 title: "多伦多的2018"
 date: "2018-12-30"
+tags: 
+- Toronto
 ---
 
 2018年有记录的“流水账”。
