@@ -6,7 +6,7 @@ tags:
 - Songs
 ---
 
-「Sleepyhead」 is a song that I am very fond of. 
+「Sleepyhead」is a song that I am very fond of. 
 
 It is from Galen Crew's 「Acoustic Daydreams」released in 2012.
 
