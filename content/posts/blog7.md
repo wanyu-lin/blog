@@ -3,7 +3,8 @@ author: "xxxx"
 title: "「Wanyu's Notes」"
 date: "2023-12-17"
 tags:  
-- Pandemic period in Toronto
+- Pandemic
+- Toronto
 ---
 
 近期看了几部Christmas season相关的电影，有「The Noel Diary」「Bridget Jone Diary」。也想沿用“diary"做题，可发现写得不够多，还是用“notes"更恰当些。
