@@ -1,6 +1,6 @@
 ---
 author: "xxxx"
-title: "「Wanyu's Notes During Pandemic」"
+title: "「Wanyu's Notes」"
 date: "2023-12-17"
 tags:  
 - Pandemic period in Toronto
