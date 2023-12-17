@@ -1,6 +1,6 @@
 ---
 author: "xxxxxx"
-title: "「2020」"
+title: "「Wanyu's Notes in 2020」"
 date: "2020-12-20"
 tags: 
 - Toronto

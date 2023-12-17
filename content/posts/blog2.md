@@ -1,6 +1,6 @@
 ---
 author: "xxxxxx"
-title: "「2018」"
+title: "Wanyu's Notes in 2018」"
 date: "2018-12-30"
 tags: 
 - Toronto
